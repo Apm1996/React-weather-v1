@@ -1,0 +1,16 @@
+.App {
+  color: blue;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}
+
+a:hover button {
+  background-color: white;
+  color: blue;
+  cursor: pointer;
+  border-radius: 10px;
+}
